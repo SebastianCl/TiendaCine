@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.Master.cs" Inherits="prjCinema1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <title></title>
+
+    <link href="Css/Practica4.css" rel="stylesheet" />
+    <link href="Css/bootstrap.css" rel="stylesheet" />
+    <link href="Css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="Css/EstilosCinema.css" rel="stylesheet" />
+    <script src="Js/jquery-3.1.1.min.js"></script>
+    <script src="Js/bootstrap.js"></script>
+
+</head>
+<body>
+    <form id="frmPrincipal" runat="server">
+        <div class="container">
+            <div class="row encabezado Centrar-Medio">
+                <div class="col-md-3">
+                    <asp:Image ID="imgLogocinema" runat="server" CssClass="img-responsive" ImageUrl="~/Imagenes/logoCinema.jpg" />
+                </div>
+                <div class="col-md-6">
+                    <asp:Label ID="label1" runat="server" CssClass="h1 text-center" ForeColor="#000066" Text="Confiteria Atu Waku Cinemas" ></asp:Label>
+                </div>
+            </div>
+            <br />          
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <asp:Panel ID="pnlMenu" runat="server" CssClass="Menu" Visible="false">
+                        <asp:Label ID="lblTitulo" runat="server" CssClass="h1 text-center" Text="Menú" ForeColor="#000066"></asp:Label>
+                        <br />
+                        <asp:Menu ID="mnuMenu" runat="server" CssClass="h3 dropdown-menu-left" ForeColor="#db2e4f">
+                            <Items>
+                                <asp:MenuItem Text="Módulo De Ventas" Value="opcVentas" NavigateUrl="~/frmVentas.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Clientes" Value="opcCrearCliente" NavigateUrl="~/frmCliente.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Sucursales" Value="opcSucursalCinema" NavigateUrl="~/frmCrearSucursal.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Productos" Value="opcProducto" NavigateUrl="~/frmCrearProducto.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Registar Función" Value="opcFuncion" NavigateUrl="~/frmCrearFuncion.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Crear Usuario" Value="opcUsuario" NavigateUrl="~/frmCrearUsuario.aspx"></asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+                    </asp:Panel>
+                </div>
+                <div class="col-md-8">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿.encabezado{
+    background-color: rgb(219, 79, 106);
+    font-family: Algerian;
+}
+
+body {
+    background-image: url(../Imagenes/background.jpg);
+}
+
+.Login{
+    font-size: 30px;
+    font-family: Arial;
+}
+
+.Menu{
+    background-color: rgb(232, 125, 146);
+}

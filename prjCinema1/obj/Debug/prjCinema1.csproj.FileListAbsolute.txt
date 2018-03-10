@@ -1,0 +1,484 @@
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\prjCinema1.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+c:\users\sebas\documents\visual studio 2015\Projects\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\prjCinema1.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Desarrollo de Software\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+G:\Desarrollo de Software\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+G:\Desarrollo de Software\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\prjCinema1.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\MIGUEL\Downloads\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\prjCinema1.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\sebas\Desktop\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+D:\Final\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+D:\Final\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+D:\Final\slnCinema1\prjCinema1\bin\prjCinema1.dll
+D:\Final\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+D:\Final\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+D:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+D:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+E:\Final\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+E:\Final\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+E:\Final\slnCinema1\prjCinema1\bin\prjCinema1.dll
+E:\Final\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+E:\Final\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+E:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+E:\Final\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\csc.exe
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\vbc.exe
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\prjCinema1.dll.config
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\prjCinema1.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\prjCinema1.pdb
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.Web.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final desarrollo\slnCinema1\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+D:\Final desarrollo\slnCinema1\prjCinema1\obj\Debug\prjCinema1.dll
+D:\Final desarrollo\slnCinema1\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\sebas\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+D:\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+D:\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+D:\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+D:\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+D:\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+D:\slnCinema2\prjCinema1\bin\prjCinema1.dll
+D:\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+D:\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+D:\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+D:\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+D:\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+D:\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libCinema1.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libConexionBD.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libParametros.dll
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libCinema1.pdb
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libConexionBD.pdb
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MIGUEL\Desktop\slnCinema2\prjCinema1\bin\libParametros.pdb
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\prjCinema1.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libCinema1.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libConexionBD.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libParametros.dll
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libCinema1.pdb
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libConexionBD.pdb
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Desktop\3\slnCinema2\prjCinema1\bin\libParametros.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\prjCinema1.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libCinema1.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libConexionBD.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libParametros.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libCinema1.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libConexionBD.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libParametros.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libLlenarCombos.dll
+C:\Users\sebas\Desktop\4\slnCinema2\prjCinema1\bin\libLlenarCombos.pdb
+H:\4\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\4\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+H:\4\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+H:\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+H:\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+H:\4\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+H:\4\slnCinema2\prjCinema1\bin\prjCinema1.dll
+H:\4\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+H:\4\slnCinema2\prjCinema1\bin\libCinema1.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\4\slnCinema2\prjCinema1\bin\libConexionBD.dll
+H:\4\slnCinema2\prjCinema1\bin\libLlenarCombos.dll
+H:\4\slnCinema2\prjCinema1\bin\libParametros.dll
+H:\4\slnCinema2\prjCinema1\bin\libCinema1.pdb
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+H:\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\4\slnCinema2\prjCinema1\bin\libConexionBD.pdb
+H:\4\slnCinema2\prjCinema1\bin\libLlenarCombos.pdb
+H:\4\slnCinema2\prjCinema1\bin\libParametros.pdb
+H:\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+H:\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+H:\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\csc.exe
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\vbc.exe
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\prjCinema1.dll.config
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\prjCinema1.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\prjCinema1.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libCinema1.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libConexionBD.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libLlenarCombos.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libParametros.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libCinema1.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libConexionBD.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libLlenarCombos.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\bin\libParametros.pdb
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.dll
+C:\Users\sebas\Documents\RESPALDO USB\4\slnCinema2\prjCinema1\obj\Debug\prjCinema1.pdb
