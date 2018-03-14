@@ -1,3 +1,9 @@
+DYNAMIC INTERFACE DESIGN IN CONSTRUCTION
+DYNAMIC INTERFACE DESIGN IN CONSTRUCTION
+DYNAMIC INTERFACE DESIGN IN CONSTRUCTION
+
+
+
 Para realizar una venta el sistema debe se comporta de la siguiente manera:
 
 El vendedor se autentica en el sistema con un usuario y contraseña. Si las credenciales de acceso son válidas el sistema muestra el menú, en caso contrario muestra un mensaje e impide el acceso.
